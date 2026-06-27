@@ -26,6 +26,7 @@ All primary design specifications, technical documentation, and project schedule
 
 ---
 
+<!--
 ## ⚡ Quickstart & Local Setup
 
 ### 1. Clone the Repository
@@ -46,3 +47,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+-->
